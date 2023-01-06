@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://vitgri1.github.io/03-5-Nick-1/
 
-Design: [Nick](https://Link)
+Design: [Nick](https://raw.githubusercontent.com/vitgri1/03-5-Nick-1/main/ScreenWeirdNick.png)
 
 ## 🎯 Project features/goals
 
